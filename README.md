@@ -8,6 +8,7 @@ It has:
 - Pre-commit hook which checks staged files against prettier & eslint
 - Polyfills for older browser (like IE11)
 - Few customized rules for eslint
+- Post-install hook which checks if new versions of dependency packages are available
 
 To start:
 
