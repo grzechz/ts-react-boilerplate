@@ -15,5 +15,5 @@ To start:
 ```bash
 git clone git@github.com:grzechz/ts-react-boilerplate.git
 cd ts-react-boilerplate
-yar && yarn start
+yarn && yarn start
 ```
